@@ -1,0 +1,8 @@
+Experimento,F1 M1,F1 M0,Situación real
+"A: aleatorio, mejor semilla (1)",0.24561403508771928,0.0,Pedidos mezclados de negocios conocidos; resultado elegido por ser el mejor
+"A: aleatorio, peor semilla (2026)",0.09523809523809523,0.0,Misma población actual; muestra variación por partición
+"B: stratify, promedio de 5 semillas",0.1768659153631296,0.0,Comparar modelos con datos actuales y proporción de clases controlada
+C: por fecha (julio-agosto),0.037037037037037035,0.0,Entrenar con el pasado y predecir pedidos posteriores
+D: por restaurante,0.10344827586206896,0.0,Pedidos de dos restaurantes no vistos en el entrenamiento
+E: versión 1 (promedio con todo),0.22950819672131148,0.0,Evaluación contaminada por respuestas del test; no reproduce producción
+E: versión 2 (promedio con train),0.22950819672131148,0.0,Negocios con historial en train; no valida por sí sola el futuro

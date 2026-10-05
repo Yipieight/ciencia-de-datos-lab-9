@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Archivos locales que no forman parte del repositorio del laboratorio.
+graphify-out/
+kernel-ipc-*
+Entrega_Laboratorio_9.zip
+data/Enunciado_Laboratorio_9.pdf

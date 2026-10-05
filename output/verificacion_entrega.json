@@ -1,0 +1,12 @@
+{
+  "notebook_valido": true,
+  "celdas_codigo_ejecutadas": 15,
+  "errores_ejecucion": 0,
+  "preguntas": 17,
+  "filas_tabla_comparativa": 7,
+  "modelo_original_verificado": true,
+  "mismos_pedidos_E1_E2": true,
+  "csv_original_sin_cambios": true,
+  "roles": "propuestos; confirmar en el grupo",
+  "discusion_otro_grupo": "no realizada por IA; pendiente de actividad humana"
+}
